@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments vindication in ansvver to Prince Ruperts declaration. By S.W. Esquire.</title>
+            <author>S. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96090</idno>
+            <idno type="STC">Wing W110</idno>
+            <idno type="STC">Thomason E244_3</idno>
+            <idno type="STC">ESTC R212571</idno>
+            <idno type="EEBO-CITATION">99871175</idno>
+            <idno type="PROQUEST">99871175</idno>
+            <idno type="VID">158325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158325)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments vindication in ansvver to Prince Ruperts declaration. By S.W. Esquire.</title>
+                  <author>S. W.</author>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682. Declaratie van Prins Robert.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeer 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes an English translation of: Prince Rupert. Declaratie van Prins Robert.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 6".</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158325:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS VINDICATION IN ANSVVER TO Prince Ruperts DECLARATION.</p>
+            <p>By S. W. Eſquire.</p>
+            <p>London, Printed in the Yeer 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="vindication">
+            <div type="declaration">
+               <pb facs="tcp:158325:2"/>
+               <head>Prince RUPERT his Declaration.</head>
+               <p>IT will ſeem ſtrange (no doubt) to ſee me in Print, my known diſpoſition being ſo contrary to this ſcribling Age; and ſure I had not put my ſelf upon a Declaration, if in common pru<g ref="char:EOLhyphen"/>dence I could have done otherwiſe.</p>
+               <p>I need not tell the world (for it is too well known) what malicious lying Pamphlets are printed againſt me almoſt every morning, whereby thoſe buſie men ſtrive to render me as odious as they would have me, againſt whom doubtleſſe I had ſooner declared, but that I well knew this mutinous lying ſpirit would be eaſily convinced, but never ſilenced, which, as it ceaſeth at no time, ſo it ſpares no perſon. And this was too manifeſt to me, by thoſe bold, odious and impoſſible untruths forged againſt His ſacred Majeſty, their own King and Soveraign (and my Gracious and Royall Vncle) who is onely guilty of this, that he is too good to be their King; and to deal cleerly, this was it furniſhed me with ſufficient patience, thinking it but reaſonable, that I ſhould be ſlandered as well as His Majeſtie.</p>
+               <p>But ſince it hath pleaſed my Lord Wharton to tell the whole City of London openly at Guild-hall, and ſince to tell it all the world in print, that one great cauſe of their preſervation at Edge-hill, was the barbarouſneſſe and inhumanity of Prince Rupert and his Troopers, that we ſpared neither man, woman, nor childe, and the thing which we aim at is Pillage and Plun<g ref="char:EOLhyphen"/>dering, and the way which we would come by it is murthering and deſtroying; ſince ſuch a charge as this comes from ſuch a mouth, I hold my ſelf bound in honour to ſpeak and tell that Lord, that as much of his Speech as concerns me, is no truer then the reſt of it, which for the moſt part is as falſe as any thing that hath been ſpoken or printed in London theſe two yeers: and had I known his Lordſhips intention, I would have asked his reaſon either before or now at Keinton, if his Lordſhip had but ſtayed ſo long as to be asked the queſtion.</p>
+               <p>But me thinks I hear the credulous people ſay, What? was not the Kings Standard reſcued from them by force? were there ſo many as 20. of our men killed by all the Kings Canons? was not our right Wing long under the power of their Canons, ſo as ſome 17. ſhot of Canon ſhot againſt them, and yet not a man of ours ſo much as hurt? Nay, were there not 3000. ſlain of the Kings Army, and but 300. of ours? If theſe abominable untruths (with many more like them in his Lordſhips Speech) be all true, then ſhall he freely charge me with barbarouſneſſe and inhumanity; but if theſe be moſt groſſe falſities (as many thouſand worthy Gentlemen will take their oaths they are) then I muſt profeſſe I am ſorry that any Baron of the Engliſh Na<g ref="char:EOLhyphen"/>tion ſhould utter ſuch foul untruths, to deceive the poor abuſed Citizens of London with falſe report, and ſo ſlander us. Twas ever my opinion, that no valiant man would ſpeak a known untruth; nor can I blame his Lordſhip, or any others faintheartedneſſe in ſo bad a cauſe as theirs is, which doubtleſſe is the reaſon why ſuch Noblemen and Gentry in His Majeſties Army, who hitherto had ſpent all their dayes in peace, could then fight ſo valiantly [ex tempore] not valuing their lives, and forgetting their deareſt relations; ſo as our enemies in their hackney-railing Pamphlets were forced to ſay, The Cavaliers (to give the Devil his due) fought very valiantly: And indeed, had they not ſhewed rather too much valour, our enemies had had leſſe bottome whereon to ſound any untruths, whereof I take this relation to be one of their Maſterpieces of Forgeries, for that they ſlew as many of ours, as we did of theirs, is as true, as that they beat us at Sherbourn caſtle, and at Worceſter.</p>
+               <p>Now for barbarouſneſſe and inhumanity to women and children, wherewith his Lordſhip and thoſe unpuniſhed papers cryed daily in the ſtreets do continually ſlander us, I muſt here pro<g ref="char:EOLhyphen"/>feſſe, that I take that man to be no Souldier or Gentleman, that will ſtrike (much leſſe kill) a woman or childe, if it be in his power to do the contrary: And I openly dare the moſt valiant and quick-ſighted of that lying Faction, to name the time, the perſon, or the houſe, where any childe or woman loſt ſo much as a hair from their head by me, or any of our Souldiers. In a battell, where two Armies fight, many one hath unfortunately kild his deareſt friend, very often thoſe whom willingly he would otherwiſe have ſpared; and whether any woman or childe were killed in this fight, is more then I can juſtly ſay: I am ſorry if there were. I ſpeak not how wilfully barbarous their Souldiers were to the Counteſſe Rivers, to the Lady Lucas in Eſſex, and likewiſe to like perſons of quality in Kent, and other places: Whom have we ever puniſhed for ſpeaking againſt us, as they moſt Iewiſhly whipped to death a Citizen of London, for ſaying no more then what was included in His Majeſties Proclamation. But ſince they name plunde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing, whoſe Monies? nay, whoſe Arms have we taken away, unleſſe theirs, who actually had, or at leaſt declared they would uſe them againſt His Majeſties Army? And for that little cloath borrowed for our Souldiers, (wherewith their Pamphlets make ſuch a noiſe) His Majeſty by Gods help will ſee it better paid for, then any thing they have taken upon publike Faith. Wh<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> houſe have we ranſacked, as they did the Earl of Northamptons? mangling and cutting in pie<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:158325:2"/>
+rich chairs, beds, ſtools and hangings; drinking as much, and as long as they were able, their letting the reſt run out upon the floor, when as the very Earl of Eſſex his houſe at Chartley ſuf<g ref="char:EOLhyphen"/>fered not the leaſt damage by us. What Churches have we defaced, as they did at Canterbury, Oxford, Worceſter, and many other places? whoſe pockets have we pickt ever to the value of three pence, under pretence of ſearching for Letters, as they did in Gloceſterſhire, and particu<g ref="char:EOLhyphen"/>larly this laſt week at Windſor and Vxbridge? Is it not their uſuall practiſe firſt to plunder a mans houſe of all plate and monies, and then impriſon him as a Delinquent, for no other fault, but becauſe he ſtood loyall to his Prince; as if it were too little to take a mans eſtate, unleſſe alſo they rob him of his innocence? Have they not now ſtuffed all the priſons in London with Earls, Lords, Biſhops, Iudges and Knights, Maſters of Colledges, Lawyers, and Gentlemen of all conditions and Counties? for what (God knows) themſelves knew not: inſomuch as now they are enforced to finde out new priſons for the Knights, Aldermen, and ſubſtantiall Citizens of London, who are now thruſt in thither onely becauſe they are ſuſpected to love their King? Have they not by impriſonment or threats muzzeled the mouthes of the moſt grave and lear<g ref="char:EOLhyphen"/>nedſt Preachers of London? witneſſe Doctor Featley, Doctor Hayward, Doctor Holdſworth, Mr. Shute, Mr. Squire, Mr. Griffith, and many others (for ſo I am informed theſe men are) be<g ref="char:EOLhyphen"/>cauſe they preach that which their conſcience tells them is the known truth. And who are coun<g ref="char:EOLhyphen"/>tenanced but ignorant and ſeditious Teachers, who (like the Maſſe-Prieſts of old) call mightily on the people for their plate a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d mony for their Patrons and themſelves? who, beſides their daily Pulpit-treaſons, vent ſuch other Divinity, as if Luther were living, he would bluſh to call them Proteſtants: And if this be not cruelty, injuſtice, and tyranny, let God and poſterity judge. Now for any looſeneſſe or incivility in our ſouldiers more then what is incident and common to great Armies, I wiſh they would not mention it, leſt ſome impartiall Readers, who know their cour<g ref="char:EOLhyphen"/>ſes, underſtand it to be meant by ſome of their great Reformers, who are that way as notoriouſly guilty as any: And for my ſelf, I appeal to the conſciences of thoſe Lords and Gentlemen, who are my daily witneſſes, and to thoſe people mhereſoever our Army hath been, what they know or have obſerved in my carriage, which might not become one of my quality, and the ſon of a King. And whereas they ſlander us for Popiſh Cavaliers, I wiſh there were no more Papiſts in their Army, then we have in ours; but to me tis no wonder with what face they can ſlander us for men diſaffected to the Proteſtant Religion, when as their grand Reformers refuſe to come to Church. For his ſacred Majeſty, I have been a frequent witneſſe in England (and all the world knows he ever ſhewed himſelf otherwiſe) and therefore hold it to be my part and duty to tell them, that His Majeſty is the moſt faithfull and beſt defender of the Proteſtant Religion of any Chriſtian Prince in Europe, and is ſo accounted by all the Princes in Chriſtendome. And what a gracious ſupporter hath he been in particular to the queen of Bohemiah (my verteous Royall mother) and to the Prince Elector, my Royall brother, no man can be ignorant of: if therefore in com<g ref="char:EOLhyphen"/>mon gratitude I do my utmoſt in defence of his Majeſty, and that cauſe whereof he hath hither<g ref="char:EOLhyphen"/>to been ſo great and happy a patron; no ingenious man but muſt thinke it moſt reaſonable. And for my ſelf, the world knowes how deeply I have ſmarted, and what perils I have undergone for the Proteſtant cauſe, what ſtately large promiſes were offered me would I conſent; and what a wretched cloſe impriſonment was threatned, if I refuſed to change my Religion, wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n I was captive to the Emperour of Germany, enough to ſatisfie any man of moderation: But if it be not ſufficient, I would to God all Engliſh men were at union amongſt themſelves, then with what alacrity would I venture my life to ſerve this Kingdom againſt thoſe cruell Popiſh Rebels in Ireland: for though I will never fight in any unrighteous quarrell, yet to defend the King, Religion and Laws of a Kingdom againſt Subjects, who are up in Arms againſt their Lord and Soveraign, and ſuch (all good wiſe men know this and that of Ireland to be) though the pre<g ref="char:EOLhyphen"/>tence look ſeverall wayes; ſuch a cauſe my conſcience tells me is full of piety and juſtice: And if it pleaſe God to end my dayes in it, I ſhall think my laſt breath ſpent with as much honour and Religion, as if I were taken off my knees at my prayers. I think there is none that take me for a Coward; for ſure I fear not the face of any man alive, yet I ſhould repute it the greateſt victory in the world, to ſee his Majeſtie enter London in peace, without ſhedding one drop of blood: where, I dare ſay (God and His Majeſty are witneſſes I lye not) no Citizen ſhould be plundered of one penny or farthing, whereby that ancient and famous City would manifeſtly perceive how deſperately it hath been abuſed by moſt ſtrange, falſe and bottomleſſe untruths, for which ſome body (without repentance) muſt be aſhamed at the day of Iudgement, if they eſcape a condign legall puniſhment in this world. I therefore conclude with this open profeſſion (and I am confident our whole Army will ſay Amen unto it) he that hath any deſigne againſt the Paoteſtant Religion, the Laws of England, or hopes to enrich himſelf by pillaging the City of London, let him be accurſed: And ſo, whether peace or war, the Lord proſper the work of their hands who ſtand for God and King Charls.</p>
+               <closer>
+                  <signed>RVPERT.</signed>
+               </closer>
+            </div>
+            <div type="body_of_vindication">
+               <pb facs="tcp:158325:3"/>
+               <head>The Parliaments Vindication, in ANSVVER to Prince <hi>RVPERTS</hi> Declaration.</head>
+               <div type="excerpt_of_declaration">
+                  <head>Prince <hi>Ruperts</hi> Declaration.</head>
+                  <p>IT will ſeem ſtrange no doubt to ſee me in print; my known diſpoſition being ſo con<g ref="char:EOLhyphen"/>trary to this ſcribling age, and ſure I had not put my ſelf upon a Declaration, if in common prudence I could have done otherwiſe.</p>
+               </div>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>His Excellence it ſeems is more mercifull to paper than men, he plunders the Kings loving people, and ſpares the Preſſe for publiſhing his Declarations, and then aſcribes it to the goodneſſe of his own diſpoſition, diſcovered before his coming hither, and which the Common-wealth hath felt and known without a<g ref="char:EOLhyphen"/>ny further Declaration, ſince the picture of his mind is truly drawn in his actions, and though reſembling not new in Phiſognomy, yet in firing and plundering of Towns, and therefore his Decla. pend in favour of himſelf, can no way right him in this not ſembling but ſuffering age, as it will appear in this following an<g ref="char:EOLhyphen"/>ſwer, and vindication to Prince <hi>Ruperts</hi> Declaration.</p>
+                  <p>
+                     <label>Dec.</label> 
+                     <hi>But ſince it hath pleaſed my L.</hi> Wharton <hi>to tell the whole City of</hi> London <hi>openly at</hi> Guild-Hall, <hi>and (ſince to tell it all the world in print, that one great cauſe of their preſervation at</hi> Edge-hill, <hi>was the barbarouſneſſe and inhumanity of Prince</hi> Ru<g ref="char:EOLhyphen"/>pert <hi>and his Troopers, that we ſpared neither man women nor child, and that we aim at pillage and plundering, and would come by it by murdering and deſtroying, ſince ſuch a charge as this comes from ſuch a mouth, I hold my ſelf bound in honour to tell that Lord, that as much of his Speech as concernes me, is no tr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er then the reſt, w<hi rend="sup">ch</hi> for the moſt part is all falſe.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ</label> It may be anſwered, that my Lord <hi>Wharton</hi> knew that the great advantage gotten at <hi>Edge-hill</hi> had many concurrent cauſes, and though God was the moſt ſu<g ref="char:EOLhyphen"/>preme and immediate, yet there might be ſome mediate and adjacent cauſes, ſince the barbarous inhumanity of Prince <hi>Ruperts</hi> troopers might give a ſharp edge to the ſwords and courages of our men, that had deeply imprinted in their minds the cry and voyce of the common people againſt them, every day bringing in ſufficient proofe of their pillaging and plundering of the Country, aske the men; and they do faithfully report that their beaſts are driven away, their houſes plun<g ref="char:EOLhyphen"/>dered, and themſelves utterly undone, the women affirm the ſame, and there<g ref="char:EOLhyphen"/>fore it is more ſafe to ground an argument from a generall then a particular af<g ref="char:EOLhyphen"/>firmation, and to believe (as it is) that the country hath been moſt cruelly wron<g ref="char:EOLhyphen"/>ged by Prince <hi>Rupert,</hi> rather then that Prince <hi>R.</hi> is innocent of theſe outrages which have been committed in the country, and therefore my Lord <hi>Wharton</hi> may be vindicated to have ſpok nothing but truth as become a Noble man, and that his Lordſhip was ſo far from ſhunning the meeting with him at <hi>Keynton,</hi> that if he have no modeſty (he dare tell him to his face that he is a plundering Prince, and will with his ſword make proof that there is nothing but falſhood and for<g ref="char:EOLhyphen"/>gery in his Declaration, publiſhed to deceive, who cannot be impoſed on by his flattering vindication, which goes forward thus.</p>
+                  <p>
+                     <pb facs="tcp:158325:3"/>
+                     <hi>Nor can I blame his Lordſhip, nor any other faint-hartedneſſe in ſo bad a cauſe as theirs is; but that they ſlew as many of ours as we did of theirs, is as true; as that they beat us at</hi> Sherbourn <hi>Caſt it and at</hi> Worceſter.</p>
+                  <p>Prince Rupert would here made us beleeve that our men were faint-hearted, but how can that appeare, for if action be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be the expreſſions of the heart, ſo many of their numerous great Army had not been cut off, if our men had not fought with undaunted reſolution, having a great odds in number to diſcourage them, and therefore wherein did their faint-hartedneſſe conſiſt? or how could they be faint-harted? for thair cauſe that Prince Robert calls bad, was as good as right could make it, they fought for Religion, the King and Parl. and the li<g ref="char:EOLhyphen"/>berties of the Subject; how could they then, having ſo great, ſo juſt, ſo generall a cauſe be faint-hearted? they knew that the malignant party conſiſting of papiſts and ſuch as belonged to their faction, Being the Popes and biſhops ſouldiers ra<g ref="char:EOLhyphen"/>ther then the Kings ſtood ready to play the bloody game of ware, where all muſt be gamſters, no ſpectators or lookers on, and all muſt preſently handle armes. ſo that their forces and reſolutions being united, how could they be faint-heart<g ref="char:EOLhyphen"/>ed? no, let Prince Rupert know that unleſſe he will account it faint-heartedneſſe to charge upon the Kings army with undaunted courage, to recover the day when it was almoſt loſt by the treachery or cowards of ſome, to ſlay more men of theirs then we loſt (for that is moſt certainly true) and at leſt to make the Earle of <hi>Eſſex</hi> remaine maſter of the field, Prince Rupert may bluſh to ſteale a victory by his own report, which the Kings Army never obtained; and there<g ref="char:EOLhyphen"/>fore it is evident that Prince Rupert doth unjuſtly charge our men with faint-heartedneſſe, and that he and his men were driven away, and forced to run from Sherburne Caſtle and Worceſter, is moſt certainly knowne to all Souldiers, and therefore here doth ſpeake an known untruth, that he may abuſe us with falſe reports and ſlanders, as well as with pillaging and plundering us, which is the next matter he excuſes and diſavows, the contrary whereof ſhall be preſently cleerly eminiced and proved.</p>
+                  <p>
+                     <hi>I openly dare his Lordſhip and the moſt quicke ſighted of that lying faction, to name the time perſon or houſe, where any child or woman loſt ſo mmch as a heir from their head by me, er any of our Souldiers, I ſpake not how wilfully barbarous their Souldiers were to the Counteſſe Rivers, to the Lady Lucas in Eſſex, and likewiſe to the like per<g ref="char:EOLhyphen"/>ſons of quality in Kent, and other places, and ſince they ſpeake of plundring, whoſe money nay whoſe armes have we taken away? what houſe have we ranſcaked, as they did the Earle of Northamptons.</hi>
+                  </p>
+                  <p>
+                     <label>Anſw.</label> Prince Ruport thinking to vindicate his own actions, hath by forged untruthes rendered himſelfe more odious io the common people. But let us aske him ſome queſtions whereby without queſtion It will appeare they murthered divers, pillaged and plundered many houſes, and with a high hand every where committed many ourrages throughout the whole countrey who were they that compelled divers of our moſt eminent Captaines to ride ſtarke naked on horſe backe, while they followed them with reproachfull and contumelous ſpeeches, calling them Parliament rouges, and Parliament doggs, was it not Prince Ru<g ref="char:EOLhyphen"/>pert ſouldiers, and the Cavaliers, and who were they that drove our men like beaſts before their army? they tooke a religious Gentleman, and having faſtened a cord to his feet, dragg'd him about the towne of Thiſtleworth, and being weary
+<pb facs="tcp:158325:4"/>
+of their cruelty cryed at laſt why do we trouble our ſelves any longer with this Parliament dogg, and ſo ſhot him at laſt with his Piſtoll, and for their plunder<g ref="char:EOLhyphen"/>ing of houſes, who hath made the Country looke like a deſolate wilderneſſe, hou<g ref="char:EOLhyphen"/>ſes being pillaged and broken downe, and the people fled away? was it their kindneſſe? their mercifull dealing, or rather their cruell and barbarous unmer<g ref="char:EOLhyphen"/>cifulneſſe, and indeed by whom hath this Kingdome been brought to ruine and diſtruction but by Prince Rupert and the Cavaliers, it is no doubt alſo that our Souldiers dealt better with the Counteſſe <hi>Rivers</hi> and the Lady <hi>Lucas,</hi> and other great perſonages, but it is well knowne that Prince Roberts Souldiers did moſt ſhamefully pillage my Lord Sayes houſe as the Lord Stamfords, and afterward not content therewith, they ſet it on fire and burnt it to the ground, having as they alledged warrant uoder the Kings hand Seale for their ſo doing, moreover he remembers with much ſhame and horror of conſcience, how when he came with his Army in a pillaging way to <hi>Kingſton,</hi> all the behaviour of his ſouldiers there, was nothing elſe but a mixture of divers impieties, for they ſtole horſes, broke open ſhops and took away their goods, and to make their wickedneſſe more tranſcendent, they profaned the ſacred Temple, converting the porch thereof into a ſtable for their horſes, who ever heare of greater impieties then theſe, and yet forſooth Prince <hi>Rupert</hi> doth ſeek to vindicate himſelf from plundering or any other cruelty, both which are well known to be continually uſed in his Army.</p>
+                  <p>
+                     <label>Dec.</label> 
+                     <hi>Whoſe pockets have we pickt ever to the value of three pence, under pretence of ſearching for letters, as they lately did in</hi> Gloceſterſhire? <hi>is it not their uſuall pra<g ref="char:EOLhyphen"/>ctiſe firſt to plunder a mans houſe of all plate and monies, and then impriſon him as a Delinquent.</hi>
+                  </p>
+                  <p>
+                     <label>Anſ.</label> It is a ſhame that a Prince ſhould ſo far overreach himſelf in affirming un<g ref="char:EOLhyphen"/>truths, for I am of his opinion that they never took three pence out of any ones pocket, being a booty of too ſmall a value for ſuch Royall Robbers, but that they have took 2 or 3 hundred pound from divers men, as is manifeſtly known, nay even cariers coming up to <hi>London</hi> have been pillaged by them, and waggons loa<g ref="char:EOLhyphen"/>den with cloath as they were carrying it up to <hi>London</hi> have bin pillaged by them, nay, neither man woman nor child can paſſe upon the high-way in any ſecurity, but either they are murthered or pillaged by them; and yet Prince <hi>Rupert</hi> would make us believe that their ſouldiers are of ſuch an excellent temper, that they will do no wrong to any one, that is, if the booty be not of a conſiderable value, for then they will not ſtick to ſhew the moſt inhumane barbarouſneſſe that can be uſed; and being not ſatisfied with that mony which they bear about them, they have ſtripped men and women ſtarke<g ref="char:cmbAbbrStroke">̄</g> naked even to their ſhirts and ſmocks, and ſo left them to the mercy of a darke and cold night, to find the way home or elſe to periſh in the fields, and if all this former proceedings of theirs, be not cruelty, injuſtice and tyranny, let God and the world judge: It is well known that none have with the Parliaments conſent been plundered at all, but that the ſouldiers in their marches hearing of ſome notorious delinquents houſe, have ſtept out of the way and diſarmed them of all Ammunition, becauſe they knew that they were malignant enemies to the King, Church, State, and Common-wealth, who under pretence of ſtanding for Ood and the King, are ill-affected to the peace of this Land, and would faine if they could enduce again Popery into this Kingdom:
+<pb facs="tcp:158325:4"/>
+the other part of his accuſation is only true when it is replyed unto their Army, for they do daily plunder the houſes of ſuch as ſtand for the King and Parlia<g ref="char:EOLhyphen"/>ment, and all ſuch as are well-affected to them both, they include in the nvmber of malignants, making them not only priſoners; but alſo to pay their liues downe for affirming that they wiſh well to the King and Parliament, as if they could not love both together, when indeed he hath no greater friends then thoſe that he would comply with his Parliament, which they ſo much hate, and to be re<g ref="char:EOLhyphen"/>venged on them hath perſwaded the King to make this civill War, and thus they will, murther, and pillage all that profeſſe their true affection to the King and Parliament, and thus Prince <hi>Rupert</hi> would make us believe that he and his ſoul<g ref="char:EOLhyphen"/>diers are juſt and mercifull, which we may ſooner believe of a Butcher that kils ſheep for the goodneſſe of the fleſh, and ſo Prince <hi>Rupert</hi> kils and murders the Kings ſubjects for their good affection to the King and Parliament.</p>
+                  <p>
+                     <label>Declar.</label> 
+                     <hi>What have they ſeen in me that might not become one of my quality and a Kings ſon? And whereas they ſlander us for popiſh Cavaliers, I wiſh there were no more Papiſts in their Army, then we have in ours.</hi>
+                  </p>
+                  <p>
+                     <label>Anſw.</label> It doth not become the ſon of a King to ſtrain and ſtreach his words beyond belief, as he hath done in his late declaration, or to ſee a falſe gloſſe on his actions; He ſhould endeavour being a ſtranger unto this Kingdom, to work a pacification between the King his Uncle and his Pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liament; and not to engage him in a civill War againſt his loving ſubjects, he ſhould not pillage and plun<g ref="char:EOLhyphen"/>der towns and houſes whereſoever he comes, as he did at <hi>Reading,</hi> where he took away the Majors plate, and at other places; he ſhould not deſire the effuſion of blood, nor make his name odious to the common people as he hath done by his cruelty: and laſtly, he ſhould not have endeauoured to vindicate himſelf by a falſe vindication, accuſing us and our ſouldiers for thoſe faults whereof himſelf is guilty, neither let him object that we have more papiſt in our Army, then there be in theirs, for is wel known, that their whole Army doth conſiſt of men of deſperate fortunes, papiſts, Damm'd Cavaliers, and many dangereous malignants.</p>
+                  <p>
+                     <label>Declar.</label> 
+                     <hi>For though I will never fight in any unrighteous quarell, yet to defend the King, Religion and Lawes of a Kingdome againſt Subjects, who are up in armes a<g ref="char:EOLhyphen"/>gainſt their Lord and Soveraigne; and ſuch (all good wiſe men know this and that c Ireland to be) though the pretence looke ſeverall waies, ſuch a cauſe my conſcience tels me is full of piety and injuſtice.</hi>
+                  </p>
+                  <p>
+                     <label>Anſw.</label> This indeed hath afair and ſpecious proteſtation in outward appear<g ref="char:EOLhyphen"/>rance, yet his actione contradict his words, or elſe his words are not full of that ſenſe which they ought to be, ſince <hi>P. Rupert</hi> is but an abettor in this war, that doth unnaturaly put the King up on thoſe violent courſes, under colour and pre<g ref="char:EOLhyphen"/>tence of the ſame cauſe which we maintain: For doth not the Parliament &amp; all his Ma: loving ſubject, aim at no other end in this war, but to defend the Kings perſons now inviron'd with a company of dangerous malignants, who deſerv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not the name of ſubjects, and alſo to the Religion pure and undefiled in it's pri<g ref="char:EOLhyphen"/>mitive eſſence, and to make Law the rule and ſquare of all their actions, all w<hi rend="sup">ch</hi> both the King, Religion, and Law they will defend with their lives and fortunes, and to this end (as the Parliaments many Meclarations do teſtifie) they have raiſed an Army under the conduct of the E. of Eſſex, and therefore it is an un<g ref="char:EOLhyphen"/>juſt aſperſion, which Pr. <hi>Rupert</hi> caſts upon all his Majeſties loving ſubjects, chal<g ref="char:EOLhyphen"/>lenging
+<pb facs="tcp:158325:5"/>
+them that they are up in Arms againſt their Lord and Soveraign, whom they love and would willingly ſubmit unto, in all chriſtian obedience. A ſon may love his father, and yet not affect thoſe ſervants who he is well aſſured hath done his father wrong, and it is manifeſt that the Kings gracious diſpoſition hath been much abuſed by wicked counſellors and malignants, and their true ſubiects may deſire and ſeek their extirpation and rooting out, and yet retain a loyall love and reverence of their lawful Soveraign, and in this manner accur<g ref="char:EOLhyphen"/>ſed be he that doth not ſtand for the King, as I am perſwaded that all do even from the bottome of their heart: The cauſe of <hi>Ireland</hi> is far different from that of <hi>England,</hi> for they ſtand for their popiſh Religion againſt their King, we ſtand with the King and for the proteſtant Religion; and therefore it is piety in us to defend Gods cauſe, and juſtice in us to ſee that the King and Kingdom be not wronged by the impartiall carriages of ſome Delinquents, who would hold the ballance of juſtice, and weigh out unto us the Kings power and authority unto us as they pleaſe, to make it light or heavy to bear, and while the King governes us they will govern the King, that he ſhall do nothing but what is infuſed into them by their councellors, and thus it is vve and not Pr. <hi>Rupert</hi> that do rightly ſtand for God rnd the King, and his great (though deſpiſed) Counſell the Par<g ref="char:EOLhyphen"/>liament, vvhoſes ruine he deſires.</p>
+                  <p>
+                     <label>Declar.</label> 
+                     <hi>I ſhould repute it the greateſt victory in the world, to ſee his Majeſty en<g ref="char:EOLhyphen"/>ter London in peace, without ſhedding one drop of blood, where I dare ſay, no Citi<g ref="char:EOLhyphen"/>zen ſhould be plundered of one penny or farthing, whereby that imminent and fa<g ref="char:EOLhyphen"/>mous City would manifeſtly perceive how much they have been abuſed by moſt ſtrange falſe and bottomeleſſe untruthe.</hi>
+                  </p>
+                  <p>
+                     <label>Anſw.</label> How can any reaſonable man give credit that Prince Robert doth ſo much deſire that the King ſhould come unto London in a peaceable manner who it is ſuppoſed hath been the chiefe agent to provoke the King firſt to keepe ſuch a diſtance in the north from the Parliament, and afterwards to raiſe an Ar<g ref="char:EOLhyphen"/>my, in the conduct whereof he doth appeare ſo forward, and in the proſecution of which war he hath committed ſo many outrages his love unto the City of London doth appeare in nothing the King advanced his army ſo neere unto it. and whatſoever is pretended to the contrary, Prince Rupert had a ſtrong affecti<g ref="char:EOLhyphen"/>on to the wealth and riches of this populous City, whoſe ſtreets he and his Ca<g ref="char:EOLhyphen"/>valiers had divided among themſelves before their comeing hither, it had been hard truſting to P. Ruperts mercy if he could have entered into the gates of the City, all the money in my purſe is ſometimes not aboue a peny farthing, and yet if I had gone in the habit of a Round-head citizen as they call them, I doe not thinke but they would pillaged me, for that ſuſpecting that I had more money a<g ref="char:EOLhyphen"/>bout me, for P. Rupert loves money no more theh the fox loved grapes, who de<g ref="char:EOLhyphen"/>ſpiſed them becauſe they hung out of his reach, ſo becauſe he could not get in<g ref="char:EOLhyphen"/>to London. Thus have I ſhal backe thoſe arowes which P. Rob. aimed at us, and yet I have not hit him ſo home as a bullet would have done at Keynton bataile, for then he would never have turned Ne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter to deceive the world as he intend<g ref="char:EOLhyphen"/>ed to doe by juſtifng of him ſelfe by a falce invective bitter pamphlet entituled <hi>Prince Ruperts Declaration,</hi> which is thus in every particular confuted by a brief anſwer.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
